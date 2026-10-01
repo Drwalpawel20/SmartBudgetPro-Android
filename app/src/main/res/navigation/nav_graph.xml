@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <!-- Dashboard -->
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.example.smartbudgetpro.ui.dashboard.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <!-- Wydatki -->
+    <fragment
+        android:id="@+id/expensesFragment"
+        android:name="com.example.smartbudgetpro.ui.expenses.ExpensesFragment"
+        android:label="Wydatki"
+        tools:layout="@layout/fragment_expenses" />
+
+    <!-- Statystyki -->
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.example.smartbudgetpro.ui.stats.StatsFragment"
+        android:label="Statystyki"
+        tools:layout="@layout/fragment_stats" />
+
+    <!-- Ustawienia -->
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.smartbudgetpro.ui.settings.SettingsFragment"
+        android:label="Ustawienia"
+        tools:layout="@layout/fragment_settings" />
+
+    <!-- NOWY EKRAN: Investuj -->
+    <fragment
+        android:id="@+id/investmentFragment"
+        android:name="com.example.smartbudgetpro.ui.investment.InvestmentFragment"
+        android:label="Inwestuj"
+        tools:layout="@layout/fragment_investment" />
+
+</navigation>

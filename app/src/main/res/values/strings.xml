@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartBudget Pro</string>
+    <string name="category_prompt">Kategoria</string>
+    <!-- Add other strings -->
+</resources>
