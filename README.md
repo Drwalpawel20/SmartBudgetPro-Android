@@ -166,10 +166,6 @@ Funkcje korzystające z usług zewnętrznych (wysyłka kodu resetującego hasło
 - [ ] Tryb ciemny
 - [ ] Rozbudowane testy jednostkowe i UI
 
-## Licencja
-
-Uzupełnij informację o licencji (np. MIT) i dodaj plik `LICENSE` w katalogu głównym repozytorium.
-
 ## Autor
 
 **Drwalpawel20** – [github.com/Drwalpawel20](https://github.com/Drwalpawel20)
