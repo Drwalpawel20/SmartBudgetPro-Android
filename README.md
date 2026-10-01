@@ -55,18 +55,6 @@
 - Ekran ustawień
 - Lokalne przechowywanie danych w bazie Room (praca offline)
 
-## Zrzuty ekranu
-
-> Dodaj własne zrzuty ekranu do katalogu `docs/screenshots/` i zaktualizuj ścieżki poniżej.
-
-| Logowanie | Dashboard | Wydatki |
-|:---:|:---:|:---:|
-| ![Logowanie](docs/screenshots/login.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Wydatki](docs/screenshots/expenses.png) |
-
-| Statystyki | Inwestycje | Ustawienia |
-|:---:|:---:|:---:|
-| ![Statystyki](docs/screenshots/stats.png) | ![Inwestycje](docs/screenshots/investment.png) | ![Ustawienia](docs/screenshots/settings.png) |
-
 ## Stos technologiczny
 
 | Obszar | Technologia |
