@@ -21,7 +21,6 @@
 - [Konfiguracja](#konfiguracja)
 - [Testy](#testy)
 - [Plany rozwoju](#plany-rozwoju)
-- [Licencja](#licencja)
 - [Autor](#autor)
 
 ---
